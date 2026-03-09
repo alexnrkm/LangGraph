@@ -1,6 +1,6 @@
-# LangGraph Project Stack
+# LangGraph Study Repository
 
-Краткий стек проекта для изучения `LangGraph` на Python.
+Репозиторий для изучения фреймворка LangGraph
 
 ## Основной стек
 
